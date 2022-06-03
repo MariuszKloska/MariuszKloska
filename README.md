@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariuszKloska
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java / unity / c#
 - 📫 How to reach me 
     mariuszkloska@poczta.fm
 
